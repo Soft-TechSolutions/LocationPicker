@@ -1,4 +1,6 @@
+[![](https://jitpack.io/v/Soft-TechSolutions/LocationPicker.svg)](https://jitpack.io/#Soft-TechSolutions/LocationPicker)
 ![API +16](https://img.shields.io/badge/API-+16-brightgreen.svg)
+
 
 <h1>Introduction</h1>
 LocationPicker is a simple and easy to use library that can be integrated into your project.
@@ -44,7 +46,7 @@ step 1:
 step 2: Add the dependency
 ```gradle
   dependencies {
-	        implementation 'com.github.Soft-TechSolutions:LocationPicker:2.0'
+	        implementation 'com.github.Soft-TechSolutions:LocationPicker:1.0'
 	}
 ```
 <br/>
