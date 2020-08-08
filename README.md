@@ -46,7 +46,7 @@ step 1:
 step 2: Add the dependency
 ```gradle
   dependencies {
-	        implementation 'com.github.Soft-TechSolutions:LocationPicker:1.0'
+	        implementation 'com.github.Soft-TechSolutions:LocationPicker:2.0'
 	}
 ```
 <br/>
